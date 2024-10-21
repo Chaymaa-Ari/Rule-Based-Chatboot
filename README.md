@@ -8,9 +8,7 @@ The chatbot can handle simple greetings, provide definitions related to AI and d
   <li>React: For the frontend, React is used to build the user interface where users interact with the chatbot.</li>
     <li>FastAPI: This Python framework is used for the backend, where the chatbot logic is implemented and exposed through REST APIs.</li>
     <li>NLTK (Natural Language Toolkit): NLTK is used for natural language processing tasks such as tokenization, stemming, and tagging user inputs.</li>
-    Pydantic: A Python library for data validation and settings management, used for handling and validating API request models.
-    CORS Middleware: Configured to allow communication between the frontend and backend.
-    Porter Stemmer: Used to stem words, which means reducing words to their root form (e.g., "analyzing" to "analyze").
+  
 </ul>
 
 # Algorithm and Flow
